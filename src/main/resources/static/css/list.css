@@ -1,0 +1,13 @@
+h1 {
+    border: 1px solid red
+}
+
+thead tr {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+th, td {
+    padding: 1rem;
+}
